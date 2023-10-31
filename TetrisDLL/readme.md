@@ -1,6 +1,0 @@
-TetrisDLL
-=========
-
-Exported functions:
--------------------
-
